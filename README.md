@@ -13,7 +13,7 @@ This Java program converts decimal numbers to their binary representation. It ha
 - Java Runtime Environment (JRE)
 
 ## Installation
-No installation is required. Ensure you have Java installed on your system.
+Ensure you have Java installed on your system.
 
 ## Compilation and Execution
 1. Compile the Java files:
